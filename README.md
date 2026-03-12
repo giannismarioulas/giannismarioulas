@@ -11,13 +11,12 @@
 ## 👨‍💻 About Me
 
 I'm a passionate Software Engineer with 3+ years of diverse experience in:
-- **Quality Assurance & Test Automation** (Playwright, TypeScript)
 - **Cloud Platforms** (Microsoft Azure, Azure DevOps, AKS)
 - **Infrastructure as Code** (Bicep, Terraform)
 - **Full-Stack & E-commerce Web Development** (ASP.NET, C#, nopCommerce)
 - **ERP Consulting** (SAP, SoftOne)
 - **DevOps & CI/CD** (automation, pipelines, PowerShell)
-
+- **Quality Assurance & Test Automation** (Playwright, TypeScript)
 
 I thrive in Agile teams, love optimizing deployments, and enjoy building scalable solutions that make a real impact.
 
@@ -27,19 +26,19 @@ I thrive in Agile teams, love optimizing deployments, and enjoy building scalabl
 
 - **Cloud & DevOps:** Azure, Azure DevOps, AKS, CI/CD, PowerShell
 - **IaC:** Bicep, Terraform
-- **Programming:** C#, ASP.NET, Java, SQL, JavaScript, TypeScript, HTML, CSS
+- **Programming:** C#, ASP.NET, Java, SQL, JavaScript, TypeScript, HTML, CSS, WinForms
 - **QA & Testing:** Playwright, TypeScript, E2E Testing, Test Automation
 - **ERP:** SAP Integration Suite, SoftOne ERP
 - **E-commerce:** nopCommerce, SEO, Plesk, integrations
 - **Other Tools:** Git, Visual Studio, VS Code, SQL Server, Postman, SAP BTP Cockpit
-- **Methodologies:** Agile (Scrum, Kanban)
+- **Methodologies:** Agile (Scrum, Kanban), MVP Pattern
 
 ---
 
 ## 📈 Experience Highlights
 
 - **QA Engineer (Current):** Writing and maintaining end-to-end test suites with Playwright and TypeScript, ensuring software quality across web applications.
-- **Software Engineer @ RayCom Technologies:** Refactored and improved legacy codebase using C# within an MVP architecture, contributing to integrated IT and communications solutions for businesses, gas stations, and retail stores.
+- **Software Engineer @ RayCom Technologies:** Refactored a legacy WinForms application to the MVP design pattern in C#, improving code maintainability and separation of concerns. Also designed and developed new WinForms modules deployed to production environments for businesses, gas stations, and retail stores.
 - **Cloud Engineer @ Accenture:** Automated Azure infrastructure, extended Terraform modules, optimized CI/CD for multi-environment deployments.
 - **ERP Consultant & Help Desk Manager @ DATAGR:** Built and managed ERP help desk systems, delivered client training, streamlined support.
 - **Freelance Developer:** Created and customized e-shops (nopCommerce, ASP.NET), integrated payment/ERP systems, managed hosting and deployments.
