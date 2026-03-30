@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Engineer with 3+ years of diverse experience in:
+I'm a Software Engineer with 3+ years of diverse experience in:
 - **Cloud Platforms** (Microsoft Azure, Azure DevOps, AKS)
 - **Infrastructure as Code** (Bicep, Terraform)
 - **Full-Stack & E-commerce Web Development** (ASP.NET, C#, nopCommerce)
