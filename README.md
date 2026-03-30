@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giannis Marioulas
 
-**Software Engineer | Cloud & DevOps Enthusiast | ERP & E-commerce Solutions**  
+**Software Engineer | Cloud & DevOps | ERP & E-commerce Solutions**  
 📍 Thessaloníki, Greece
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/giannis-marioulas-648b75205/)  
